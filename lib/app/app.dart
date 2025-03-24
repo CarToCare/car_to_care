@@ -11,7 +11,7 @@ class App extends StatelessWidget {
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const Principal(),
+      home: Principal(),
     );
   }
 }
